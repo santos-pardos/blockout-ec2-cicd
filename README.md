@@ -26,3 +26,5 @@ Only with cookie scoreboard:  <br>
   bhargavgohil      [CubeOut](https://bhargavgohil.github.io/)    <br>
   rajatmadaan786    [CubeOut](  https://rajatmadaan786.github.io/blockout/)    <br>
 
+# Links
+https://lightrains.com/blogs/deploy-aws-ec2-using-github-actions/
