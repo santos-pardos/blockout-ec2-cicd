@@ -1,4 +1,4 @@
-name: Docker Image CI - V4
+name: Docker Image CI - V1
 
 on:
   push:
